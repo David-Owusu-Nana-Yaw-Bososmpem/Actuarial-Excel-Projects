@@ -124,5 +124,5 @@ The skills developed are relevant to actuarial analysis, financial reporting, in
 
 ## Repository Contents
 
-- `Excel Project - My Projection of Income Statement Solution.xlsx` – Excel workbook containing the assumption tool, income statement projections and interest-rate scenario analysis.
+- `Income_Statement_Projectio.xlsx` – Excel workbook containing the assumption tool, income statement projections and interest-rate scenario analysis.
 
