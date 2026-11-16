@@ -80,4 +80,4 @@ It highlights the ability to automate repetitive calculations, estimate outstand
 
 The model uses supplied completion factors and historical claims information. Its estimates therefore depend on the reliability and suitability of those assumptions.
 
-The current workbook also contains an incomplete PivotTable section for maximum IBNR reserve by coverage type. This analysis should be completed before presenting the workbook as satisfying every requirement of the original assignment.
+
