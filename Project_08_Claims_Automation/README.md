@@ -15,7 +15,7 @@ The solution combines probability-based expected claims calculations with VBA pr
 The main objectives were to:
 
 - Automate the calculation of projected claims for 100 policyholders using VBA.
-- Apply the healthcare insurance assumptions established in Project 3.
+- Apply the healthcare insurance assumptions established in Project 7.
 - Calculate expected claims across each policyholder's eligible policy years.
 - Aggregate annual expected claims into a single total projected claims amount.
 - Display the calculated total beside each policyholder's existing information.
