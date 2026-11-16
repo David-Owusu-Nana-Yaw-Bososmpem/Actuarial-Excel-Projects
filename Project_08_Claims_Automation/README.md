@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project extends the healthcare insurance expected claims projection model developed in **AAC Excel Project 3**.
+This project extends the healthcare insurance expected claims projection model developed in Project 7.
 
 An insurance provider supplied a dataset containing 100 policyholders, with information on their gender, age and health condition. The objective was to develop an Excel VBA solution that calculates the total projected healthcare claims for each policyholder over the applicable duration of their insurance policy.
 
