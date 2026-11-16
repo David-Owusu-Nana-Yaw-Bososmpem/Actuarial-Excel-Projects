@@ -42,7 +42,7 @@ The health condition variable is coded as follows:
 
 ## Actuarial Assumptions
 
-The model retains the assumptions from Project 3.
+The model retains the assumptions from Project 7.
 
 ### 1. Average Claim Amount
 
