@@ -6,7 +6,7 @@ This project extends an actuarial data validation tool by introducing Excel VBA 
 
 Developed for EA Insurance Company, the tool is designed to reduce manual intervention in the quarterly actuarial reporting process by automating the retrieval of financial data, updating actuarial data tables and assessing whether key financial values fall within predefined expected ranges.
 
-The solution builds on the continuity-check framework developed in Project 11.
+The solution builds on the continuity-check framework developed in Project 5.
 
 ## Project Objectives
 
