@@ -81,7 +81,7 @@ An unhealthy policyholder has a 50% higher probability of making a claim than a 
 
 ## Methodology and Calculations
 
-The model uses the expected claims calculation established in Project 3:
+The model uses the expected claims calculation established in Project 7:
 
 **Annual Expected Claim = Average Claim Amount × Probability of Making a Claim**
 
