@@ -16,7 +16,7 @@ The model estimates outstanding incurred claims for 30 insurance companies using
 
 ## Methodology
 
-The project builds on the Completion Factor Method developed in Project 7.
+The project builds on the Completion Factor Method developed in Project 3.
 
 For each company, the model uses:
 - Company size to determine its employee category.
