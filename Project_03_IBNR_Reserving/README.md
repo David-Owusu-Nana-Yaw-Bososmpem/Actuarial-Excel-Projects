@@ -126,7 +126,3 @@ Further enhancements could include historical claims-development analysis, addit
 This project provided practical experience in applying the Completion Factor Method to estimate ultimate expected claims and IBNR reserves. It strengthened my understanding of claims development, actuarial reserving and the application of Excel in developing automated insurance modelling tools.
 
 ---
-
-**Project Area:** Actuarial Science | Health Insurance | Claims Reserving | IBNR Modelling
-
-**Tool:** Microsoft Excel
